@@ -14,7 +14,6 @@ This repository is a powerhouse for all things 3D printing, curated and maintain
 
 Features
 Security Meets Innovation: Explore the convergence of ethical hacking and 3D printing to create groundbreaking projects.
-Extensive Documentation: Dive into our detailed documentation to understand the nuances of each 3D printing project.
 
 Community-Driven: Join the Whit3HatHack3rArmy community and contribute your ideas, feedback, and improvements.
 
@@ -26,11 +25,5 @@ To get started with 3D printing the Whit3HatHack3rArmy way, follow these simple 
 Clone the repository: git clone https://github.com/Whit3HatHack3rArmy/3D_Print.git
 Install the necessary dependencies listed in the documentation.
 Explore the projects and choose the one that resonates with your interests.
-
-Usage
-Refer to the individual project folders for specific usage instructions.
-
-Contributing
-We welcome contributions from the community!
 
 Join us on this exciting journey where hacking and innovation collide in the realm of 3D printing! Whit3HatHack3rArmy awaits your presence. Happy hacking!
